@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>NewMaven</name>
+=======
+	<name>Cucumber</name>
+>>>>>>> 1dc807f9ec0501dd531cbc986f09ca5e281335a9
 	<comment></comment>
 	<projects>
 	</projects>
